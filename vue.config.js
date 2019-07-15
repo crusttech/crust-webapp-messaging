@@ -6,4 +6,3 @@ module.exports = buildVueConfig({
   theme: 'crust-base',
   packageAlias: 'crust-webapp-messaging',
 })
-
