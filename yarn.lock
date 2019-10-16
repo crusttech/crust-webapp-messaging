@@ -2635,7 +2635,7 @@ corteza-webapp-common@cortezaproject/corteza-webapp-common.git#master:
 
 corteza-webapp-messaging@cortezaproject/corteza-webapp-messaging.git#master:
   version "2019.9.0-rc.1"
-  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-messaging/tar.gz/81f6ad640e31d69d2463a044c5d7c330da4e0db4"
+  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-messaging/tar.gz/294074398379e5dc4280f0d484776244b9c484e1"
   dependencies:
     "@fortawesome/fontawesome-svg-core" "1.2.21"
     "@fortawesome/free-regular-svg-icons" "5.10.1"
