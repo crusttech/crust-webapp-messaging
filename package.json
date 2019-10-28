@@ -25,7 +25,7 @@
     "@panter/vue-i18next": "^0.15.0",
     "alloyfinger": "^0.1.16",
     "animejs": "3.1.0",
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "corteza-webapp-common": "cortezaproject/corteza-webapp-common.git#master",
     "corteza-webapp-messaging": "cortezaproject/corteza-webapp-messaging.git#master",
     "emoji-js": "^3.4.1",
