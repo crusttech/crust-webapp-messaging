@@ -2623,8 +2623,8 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
 
 corteza-webapp-common@cortezaproject/corteza-webapp-common.git#master:
-  version "2019.9.0-rc.41"
-  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-common/tar.gz/26d67eaac7554e8093380000e3c4e20b3130a8cf"
+  version "2019.9.0-rc.42"
+  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-common/tar.gz/c2cb710f40cf1ecaea4b6a2bb53885b1025c1ffd"
   dependencies:
     diff "4.0.1"
     mime-types "2.1.24"
@@ -2635,7 +2635,7 @@ corteza-webapp-common@cortezaproject/corteza-webapp-common.git#master:
 
 corteza-webapp-messaging@cortezaproject/corteza-webapp-messaging.git#master:
   version "2019.9.0-rc.1"
-  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-messaging/tar.gz/f4f9fbbadfabfc1f9cdfa458da679b1ae8a5d470"
+  resolved "https://codeload.github.com/cortezaproject/corteza-webapp-messaging/tar.gz/1dbc4b79002ca8fa073553eec2c784e4775eee97"
   dependencies:
     "@fortawesome/fontawesome-svg-core" "1.2.21"
     "@fortawesome/free-regular-svg-icons" "5.10.1"
